@@ -1,0 +1,9 @@
+{
+  "name": "remind.me",
+  "version": "1.0.0",
+  "description": "Similar to Trello, but with my improvements. Also, I am really aiming to make a much better version, with different functionalities",
+  "main": "index.js",
+  "author": "Dr4kk0nnys <renatoversianidrakk@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
